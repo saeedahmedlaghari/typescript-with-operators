@@ -1,0 +1,10 @@
+# Custom Dictionary Words
+Assigment
+codepaths
+decerement
+Devide
+Latif
+precent
+Resalo
+Rupies
+tsbuildinfo

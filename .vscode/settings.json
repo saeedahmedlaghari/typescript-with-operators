@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "Aaene",
+        "Dadu",
+        "Tarikh",
+        "Zelo"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:arithmetic-operators}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
